@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkGreen"
+    android:weightSum="1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:text="Contact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/contactText"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:typeface="sans"/>
+
+            <TextView
+                android:text="•Adresa: RO-400015 Cluj-Napoca, Str .Republicii , nr. 42 \n•	Tel: 0264.592152 \n• Email: gradina.botanica@ubbcluj.ro "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView9"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse" />
+
+            <TextView
+                android:text="Program de vizită"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:typeface="sans" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+                android:text="•	luni - duminică orele 8:00 - 20:00" />
+
+            <TextView
+                android:text="Programul serelor "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:typeface="sans" />
+
+            <TextView
+                android:text="•	15 oct - 14 apr serele sunt deschise între 9:00 - 16:00, Ultimii vizitatori intră la 15:45\n •	15 apr - 14 oct serele sunt deschise între 9:00 - 18:00, Ultimii vizitatori intră la 17:45\n •Serele sunt închise în prima zi de luni din fiecare lună. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView6"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse" />
+
+            <TextView
+                android:text="Tarife"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView15"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:typeface="sans" />
+
+            <TextView
+                android:text="Taxa de intrare* pentru adulti- 10,00 \nTaxa de intrare pentru copii (peste 5 ani), elevi, studenti de la alte universitati, pensionari si seniori	- 5,00 \nTaxa de intrare in intervalul in care serele sunt inchise, pentru adulti	6,00 \nTaxa de intrare in intervalul in care serele sunt inchise, pentru copii (peste 5 ani), elevi, studenti de la alte universitati, pensionari si seniori	3,00 \nAbonament anual intrare- 250,00 \nAbonament semestrial intrare	160,00 \n* Accesul este gratuit pentru studentii şi angajatii U.B.B., pe baza carnetului de student si a legitimatiei de serviciu, copii sub 5 ani și persoanele cu dizabilitați. "
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/textView10"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+                android:verticalScrollbarPosition="right"
+                tools:text="Taxa de intrare* pentru adulti- 10,00 \nTaxa de intrare pentru copii (peste 5 ani), elevi, studenti de la alte universitati, pensionari si seniori	- 5,00 \nTaxa de intrare in intervalul in care serele sunt inchise, pentru adulti - 	6,00 \nTaxa de intrare in intervalul in care serele sunt inchise, pentru copii (peste 5 ani), elevi, studenti de la alte universitati, pensionari si seniori	3,00 \nAbonament anual intrare-  250,00 \nAbonament semestrial intrare	160,00 \n* Accesul este gratuit pentru studentii şi angajatii U.B.B., pe baza carnetului de student si a legitimatiei de serviciu, copii sub 5 ani și persoanele cu dizabilitați. " />
+
+            <TextView
+                android:text="Tarife diverse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView5"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:typeface="sans" />
+            <TextView
+                android:text="Ghid pliant	2,00 \nIlustrate	1,00 \nCarte „Gradina Botanica”	15,00 \nRevista “Contributii Botanice”	30,00 \nDVD „Gradina celor 5 continente”	15,00 \nAlbum “Invitatie in paradis”	87,00 \nTaxa fotografiat profesional (albume, sonete)	30,00 \nTaxa filmat profesional (albume, sonete, etc.)	50,00 \nOficierea casatoriilor civile	500,00 \nOrganizarea unor evenimente festive in spatiile exterioare ale gradinii	1000,0 "
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/textView11"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+                android:verticalScrollbarPosition="right"
+                tools:text="Ghid pliant 	2,00 \nIlustrate	1,00 \nCarte „Gradina Botanica”	 15,00 \nRevista “Contributii Botanice”	30,00 \nDVD „Gradina celor 5 continente”	15,00 \nAlbum “Invitatie in paradis”	87,00 \nTaxa fotografiat profesional (albume, sonete)	30,00 \nTaxa filmat profesional (albume, sonete, etc.)	50,00 \nOficierea casatoriilor civile	500,00 \nOrganizarea unor evenimente festive in spatiile exterioare ale gradinii	1000,0 " />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

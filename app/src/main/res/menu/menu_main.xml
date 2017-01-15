@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rolli.ghid_gradina_botanica.MainActivity">
+    <item
+        android:id="@+id/qr_scanner"
+        android:orderInCategory="100"
+        android:title="@string/qr_scanner"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/plante_medicinale"
+        android:orderInCategory="100"
+        android:title="@string/plante_medicinale"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/plante_ornamentale"
+        android:orderInCategory="100"
+        android:title="@string/plante_ornamentale"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/plante_otravitoare"
+        android:orderInCategory="100"
+        android:title="@string/plante_otravitaore"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/stiati_ca"
+        android:orderInCategory="100"
+        android:title="Stiati ca?"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/feedback"
+        android:orderInCategory="100"
+        android:title="@string/feedback"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Contact"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkGreen"
+    android:weightSum="1">
+    <TextView
+        android:text="Știați că?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stiaticaText"
+        android:typeface="normal"
+        android:layout_weight="0.03"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textSize="30sp"
+        android:textStyle="normal|italic"
+        tools:textColor="@color/common_google_signin_btn_text_dark_default" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text= "@string/stiati_ca"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/textView11"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+            android:verticalScrollbarPosition="right" ></TextView>
+
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Ghid Gradina Botanica</string>
+    <string name="action_settings">Settings</string>
+    <string name="qr_scanner">QR code scanner</string>
+    <string name="feedback">Feedback</string>
+    <string name="plante_medicinale">Plante Medicinale</string>
+    <string name="plante_ornamentale">Plante Ornamentale</string>
+    <string name="plante_otravitaore">Plante Otravitoare</string>
+    <string name="bine_ati_venit">Bine ați venit!</string>
+    <string name="nume">Gradina Botanică Alexandru Borza</string>
+    <string name="categorii">Categorii de plante</string>
+    <string name="back"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="Harta">Harta</string>
+    <string name="stiati_ca">
+        1)LALEA\n
+Oricat de greu ar putea fi de crezut, locul de origine al lalelelor se afla… in muntii Himalaia?
+Lalelele sunt cele care se fac “vinovate” de prima mare criza economica europeana?
+Lalelele sunt comestibile?
+\n\n
+2)PALMIER
+        \n
+In Africa se gaseste palmierul denumit Arborele Calatorului? Din varful tulpinii se deschide un evantai gigantic de frunze lungi de 3-4 m si late de 1 m, la inceput intregi, apoi divizate in lacinii neregulate.
+\n\n
+3)DALHIA\n
+In ciuda temperaturilor care scad alarmant, exista o floare care sfideaza toamna cu eleganta: dalia, regina nuantelor de toamna ?
+\n\n
+4)CRAITA\n
+Plante luminoase si frumos mirositoare, craitele sunt o alegere excelenta atunci cand vrem sa evitam tantarii? Contin un ingredient care se gaseste in majoritatea insecticidelor si care va tine insectele la distanta.
+\n\n
+5)FERIGA COMUNA\n
+ 	Preparatele de feriga sunt utile in combaterea viermilor intestinali, mai ales în combaterea teniei? Mai pot fi eficiente si in combaterea bolilor cailor urinare, precum si pentru calmarea durerilor locale, a arsurilor, in combaterea gutei si impotriva reumatismului.
+\n\n
+6)NUFAR\n
+Pe spatele fiecarei frunze sunt nervuri ce intaresc frunza, astfel incat si un copil mic poate sta pe ea, fara sa se scufunde? Pe langa aspectul estetic, nuferii sunt renumiti pentru substantele emoliente continute, astfel extractul din nufar este un excelent ingredient pentru ingrijirea si hidratarea pielii sensibile si uscate.
+
+\n\n
+7)CACTUS\n
+Este denumit de foarte multi “fantana desertului” mai ales pentru ca are foarte multa apa la nivelul celulelor ce poate fi folosita in caz ca va rataciti prin desert? Cactusul cu inaltimea cea mai mare are 19.2 metri iar specia care bate recordul la micime, are un diametru de aproximativ un centimetru.
+\n\n
+ 8)ALOE VERA\n
+Contine 6 agenti antiseptici care distrug bacteriile, ciupercile si virusii? Seva plantei, care trebuie sa fie veche de cel putin doi ani, se foloseste cu succes impotriva herpesului, arsurilor, eczemelor, a ulcerului precum si in prevenirea tumorilor si intarirea sistemului imunitar. Aceasta prezinta si proprietati de anti-imbatranire a pielii si a organismului.
+\n\n
+9)GALBENELE\n
+Crema de galbenele este mult mai hidratanta decat orice balsam de buze achizitionat din comert?De altfel, este si incredibil de buna pentru tratarea cosurilor, a acneei sau a altor probleme ale pielii avand efect antibacterian, antiseptic si cicatrizant.
+\n\n
+10)TISA\n
+Este unul dintre cei mai periculosi copaci din lume, avand fiecare parte componenta, in afara de frunze, extrem de toxica, fiind folosita pe vremuri, de catre medicii naturisti, pentru inducerea avortului? Consumul plantei cauzeaza infarct si moarte, neexistand un antidot.
+</string>
+
+
+
+
+</resources>
